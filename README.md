@@ -102,7 +102,7 @@ On average, there is almost no difference in revenue across weekdays. However,in
 
 # A/B Testing Analysis 
 
-💻 [**Project Notebook**]([(https://colab.research.google.com/drive/1P11I3B2HW9fAvw9paVVJMuV_KijAP7dH?usp=sharing)) - You are more than welcomed to explore code. 
+💻 [**Project Notebook**](https://colab.research.google.com/drive/1P11I3B2HW9fAvw9paVVJMuV_KijAP7dH?authuser=1#scrollTo=Vx3JkG0k9meL) - You are more than welcomed to explore code. 
 
 
 ## Project Goal 
