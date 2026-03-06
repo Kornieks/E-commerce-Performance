@@ -4,7 +4,7 @@
 This project presents a sales analytics workflow for an e-commerce dataset.
 It explores sales performance across countries, continents, traffic channels, devices, and product categories, and applies statistical methods to identify relationships between key business metrics.
 
-💻 [**Project Notebook**](https://colab.research.google.com/github/Kornieks/E-commerce-Performance/blob/main/Final_Project_.ipynb) - You are more than welcomed to explore code and visuals. 
+💻 [**Project Notebook**](https://colab.research.google.com/github/Kornieks/E-commerce-Performance/blob/main/Final_Project_.ipynb) - You are more than welcome to explore code and visuals. 
 
 **The analysis includes:**
 
@@ -102,7 +102,7 @@ On average, there is almost no difference in revenue across weekdays. However,in
 
 # A/B Testing Analysis 
 
-💻 [**Project Notebook**](https://colab.research.google.com/drive/1P11I3B2HW9fAvw9paVVJMuV_KijAP7dH?authuser=1#scrollTo=Vx3JkG0k9meL) - You are more than welcomed to explore code. 
+💻 [**Project Notebook**](https://colab.research.google.com/drive/1P11I3B2HW9fAvw9paVVJMuV_KijAP7dH?authuser=1#scrollTo=Vx3JkG0k9meL) - You are more than welcome to explore code. 
 
 
 ## Project Goal 
